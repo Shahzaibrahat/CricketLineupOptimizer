@@ -58,7 +58,7 @@ Using performance data since 2015, the goal is to **maximize total expected runs
 - Add weather and pitch condition factors
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
-Have feedback or ideas to improve the model? Feel free to fork, star ⭐, or reach out!
+Have feedback or ideas to improve the model? Feel free to fork, star, or reach out!
 
